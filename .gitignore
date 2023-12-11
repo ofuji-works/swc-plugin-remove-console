@@ -1,0 +1,10 @@
+.DS_Store
+
+/target
+^target/
+target
+
+.swc
+dist
+node_modules
+
